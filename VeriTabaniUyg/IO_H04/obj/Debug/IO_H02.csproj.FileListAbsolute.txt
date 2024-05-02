@@ -1,0 +1,16 @@
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\IO_H02.exe.config
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\IO_H02.exe
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\IO_H02.pdb
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\EntityFramework.dll
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\EntityFramework.xml
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.csproj.AssemblyReference.cache
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.Form1.resources
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.Properties.Resources.resources
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.csproj.GenerateResource.cache
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.csproj.CoreCompileInputs.cache
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.csproj.CopyComplete
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.exe
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.pdb
+C:\Users\LAB5\Desktop\IO_H02\IO_H02\obj\Debug\IO_H02.FormGiris.resources

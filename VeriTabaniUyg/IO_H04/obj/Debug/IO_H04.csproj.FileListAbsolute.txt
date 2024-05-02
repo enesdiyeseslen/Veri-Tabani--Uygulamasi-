@@ -1,0 +1,54 @@
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\IO_H02.exe.config
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\IO_H02.exe
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\IO_H02.pdb
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\EntityFramework.dll
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\EntityFramework.xml
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.AssemblyReference.cache
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H02.Properties.Resources.resources
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.GenerateResource.cache
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.CoreCompileInputs.cache
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.CopyComplete
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H02.exe
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H02.pdb
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H03.Form1.resources
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H03.FormGiris.resources
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H02.FormRehberEkleGuncelle.resources
+C:\Users\OGRCAD\Desktop\IO_H04\IO_H04\obj\Debug\IO_H02.FormRehberEkleGuncelle2.resources
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\IO_H02.exe.config
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\IO_H02.exe
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\IO_H02.pdb
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.dll
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.SqlServer.dll
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.xml
+D:\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.SqlServer.xml
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.AssemblyReference.cache
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H03.Form1.resources
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H03.FormGiris.resources
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.FormRehberEkleGuncelle.resources
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.FormRehberEkleGuncelle2.resources
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.Properties.Resources.resources
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.GenerateResource.cache
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.CoreCompileInputs.cache
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.CopyComplete
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.exe
+D:\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.pdb
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\IO_H02.exe.config
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\IO_H02.exe
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\IO_H02.pdb
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H03.Form1.resources
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H03.FormGiris.resources
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.FormRehberEkleGuncelle.resources
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.FormRehberEkleGuncelle2.resources
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.Properties.Resources.resources
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.GenerateResource.cache
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H04.csproj.CopyComplete
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.exe
+C:\Users\User\Desktop\docs\Okul\Görsel Programlama-2\IO_H04\IO_H04\obj\Debug\IO_H02.pdb

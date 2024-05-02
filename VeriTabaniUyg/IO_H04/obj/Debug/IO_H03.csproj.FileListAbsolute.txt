@@ -1,0 +1,16 @@
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\IO_H02.exe.config
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\IO_H02.exe
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\IO_H02.pdb
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\EntityFramework.dll
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\EntityFramework.xml
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H03.csproj.AssemblyReference.cache
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H03.Form1.resources
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H03.FormGiris.resources
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H02.Properties.Resources.resources
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H03.csproj.GenerateResource.cache
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H03.csproj.CoreCompileInputs.cache
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H03.csproj.CopyComplete
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H02.exe
+C:\Users\OGRCAD\Desktop\IO_H03\IO_H03\obj\Debug\IO_H02.pdb
